@@ -1,0 +1,3 @@
+rootProject.name = 'TechCardsWithRedux'
+
+include ':app'
